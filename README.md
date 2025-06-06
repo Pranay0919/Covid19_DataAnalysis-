@@ -1,3 +1,12 @@
+# What's in This Project
+
+This project has one Google Colab notebook with code blocks that you run in order. Each block uses the results from the one before it.
+
+The notebook is set up like this:
+- Each question is clearly marked
+- The code to solve it comes right after
+- I added lots of comments to explain what's happening
+
 # What I Learned from This Project
 
 ## 1. Don't Try to Be Perfect Right Away
@@ -23,19 +32,6 @@ They're the worst. 😤
 <img src="https://github.com/user-attachments/assets/c5f66b3b-0071-407e-b636-dfa948b8ceb5" width="600" alt="Graph 2">
 <img src="https://github.com/user-attachments/assets/dd7a32a6-300a-468f-a326-da926e3210e6" width="600" alt="Graph 3">
 
-# Links
-
-**Notebook**: [Google Colab](https://colab.research.google.com/drive/1uTThm9fuHw-55JaC5eW093rIa87CMQL9?usp=sharing)
-
-# What's in This Project
-
-This project has one Google Colab notebook with code blocks that you run in order. Each block uses the results from the one before it.
-
-The notebook is set up like this:
-- Each question is clearly marked
-- The code to solve it comes right after
-- I added lots of comments to explain what's happening
-
 # How to Run This
 
 ## What You Need
@@ -54,6 +50,13 @@ The notebook is set up like this:
 
 3. **Read the Comments**  
    I wrote explanations for each step to help you understand what's happening.
+# Links
+
+**Notebook**: [Google Colab](https://colab.research.google.com/drive/1uTThm9fuHw-55JaC5eW093rIa87CMQL9?usp=sharing)
+
+
+
+
 
 ---
 
