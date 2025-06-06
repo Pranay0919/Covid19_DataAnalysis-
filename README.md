@@ -1,6 +1,17 @@
+
+## Quick Links
+Link to notebook: https://colab.research.google.com/drive/1uTThm9fuHw-55JaC5eW093rIa87CMQL9?usp=sharing
+
+
+
+
 ## File Structure
 
-This project includes a single Google Colab notebook containing sequential code blocks. Each block builds upon the previous one to solve the problems outlined in the case study.
+This project includes a single Google Colab notebook containing sequential code blocks. 
+Each block builds upon the previous one to solve the problems outlined in the case study. 
+
+Every question is listed followed by the code block providing the solution. 
+The solution is filled with comments explaining the solution.
 
 ---
 
