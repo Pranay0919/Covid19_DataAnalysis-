@@ -1,10 +1,10 @@
-## 📁 File Structure
+## File Structure
 
 This project includes a single Google Colab notebook containing sequential code blocks. Each block builds upon the previous one to solve the problems outlined in the case study.
 
 ---
 
-## ▶️ Run Instructions
+## Run Instructions
 
 1. **Load CSV Files**  
    Upload the required CSV files in the **first code block** of the notebook.
